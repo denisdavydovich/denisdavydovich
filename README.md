@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Denis and
-I'm currently learning Data Analytics in Yandex.Praktikum
+My name is Denis and /n
+I'm currently learning Data Analytics in Yandex.Praktikum /n
 How to reach me: 
 
 
