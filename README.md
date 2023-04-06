@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Denis and
+I'm currently learning Data Analytics in Yandex.Praktikum
+How to reach me: 
+
 
 <!--
 **denisdavydovich/denisdavydovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
