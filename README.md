@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- My name is Denis 
+- I'm Junior Data Analyst 
 - I’m currently learning  Data Analytics in Yandex.Practicum
 
  ### :telephone_receiver: Contact me:
