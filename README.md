@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - My name is Denis 
-- I’m currently learning  Data Analytics in Yandex.Praktikum
+- I’m currently learning  Data Analytics in Yandex.Practicum
 
  ### :telephone_receiver: Contact me:
  <div id="badges">
