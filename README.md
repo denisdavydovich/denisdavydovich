@@ -4,7 +4,7 @@
 - My name is Denis 
 - I’m currently learning  Data Analytics in Yandex.Praktikum
 
- ### Contact me:
+ ### :telephone_receiver: Contact me:
  <div id="badges">
   <a href="https://www.linkedin.com/in/denis-davydovich-38a296204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
