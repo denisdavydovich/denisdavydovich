@@ -3,6 +3,8 @@
 
 - I'm Junior Data Analyst 
 - I’m currently learning  Data Analytics in Yandex.Practicum
+- There will be my pet-project from Yandex
+- And some other projects
 
  ### :telephone_receiver: Contact me:
  <div id="badges">
