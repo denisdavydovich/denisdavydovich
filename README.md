@@ -3,7 +3,7 @@
 
 - I'm Junior Data Analyst 
 - I’m currently learning  Data Analytics in Yandex.Practicum
-- There will be my pet-project from Yandex
+- There will be my pet-projects from Yandex
 - And some other projects
 
  ### :telephone_receiver: Contact me:
