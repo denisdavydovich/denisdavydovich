@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - I'm Junior Data Analyst 
-- And learning Data Analytics at Yandex.Practicum
+- Studying Data Analytics at Yandex.Practicum
 - There will be my pet-projects from Yandex
 - And some other projects
 
