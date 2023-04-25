@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- I'm Junior Data Analyst 
+- I'm Data Analyst 
 - Studying Data Analytics at Yandex.Practicum
 - Here you can watch my pet-projects
 
