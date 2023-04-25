@@ -3,7 +3,6 @@
 
 - I'm Data Analyst 
 - Studying Data Analytics at Yandex.Practicum
-- Here you can watch my pet-projects
 
  ### :telephone_receiver: Contact me:
  <div id="badges">
