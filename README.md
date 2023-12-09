@@ -4,7 +4,7 @@
 - I'm Data Analyst 
 - Finished Data Analytics at Yandex.Practicum
 
- ### :telephone_receiver: Contact me:
+ ### Contact me:
  <div id="badges">
   <a href="https://www.linkedin.com/in/denis-davydovich-38a296204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
  
- ### :hammer_and_wrench: Languages and Tools:
+ ### Languages and Tools:
  <div>
   <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/>&nbsp
   <img src= "https://cdn-icons-png.flaticon.com/512/5815/5815886.png" width="40" height="40"/>&nbsp
