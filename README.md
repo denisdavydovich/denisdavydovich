@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - I'm Data Analyst 
-- Studying Data Analytics at Yandex.Practicum
+- Finished Data Analytics at Yandex.Practicum
 
  ### :telephone_receiver: Contact me:
  <div id="badges">
