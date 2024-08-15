@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/112ac170-78ce-4ddd-ac0e-89caaad53189)
 ## Hi there 👋
 
 - I'm Data Analyst 
@@ -19,6 +19,7 @@
  ### Languages and Tools:
  <div>
   <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/>&nbsp
+  <img src= "https://www.flaticon.com/free-icon/database_4248443?term=sql&related_id=4248443" width="40" height="40"/>&nbsp
   <img src= "https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="40" height="40"/>&nbsp
   <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40"/>&nbsp
   <img src= "https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40"/>&nbsp
