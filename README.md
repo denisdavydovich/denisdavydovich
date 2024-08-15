@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/112ac170-78ce-4ddd-ac0e-89caaad53189)
 ## Hi there 👋
 
 - I'm Data Analyst 
